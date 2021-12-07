@@ -7,3 +7,4 @@ Environment Variables needed:
 IG_USERNAME - instagram username (make sure it's not private)
 TIME_INTERVAL - interval in seconds to refresh/detect new post
 WEBHOOK_URL - discord webhook goes here
+
